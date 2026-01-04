@@ -68,7 +68,7 @@ uvicorn app.main:app --reload
 ```bash
 http://127.0.0.1:8000
 ```
-![Console Output](Screenshots/Console_output.png)
+![Console Output](Screenshots/Console_Output.png)
 
 ### Open this URL in your browser (Chrome recommended).
 
