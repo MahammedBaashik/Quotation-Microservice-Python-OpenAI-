@@ -11,6 +11,9 @@ This project is a Quotation Microservice built with FastAPI in Python. It calcul
 * Generate email drafts summarizing totals, delivery terms, and client notes in the requested language.
 * Include testing (pytest), Docker support, and OpenAPI docs for easy deployment.
 
+## Flowchart
+![Diagram](Screenshots/flow_2.png)
+
 ## Dataset Story
 
 * The microservice takes a JSON payload with:
